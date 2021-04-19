@@ -1,5 +1,5 @@
 <h1>Javascript Practice</h1>
-<p style="font-style: italic; font-weight: bold">Vanilla Javascript exercises and examples that break down frequently used functions and methods</p>
+<p style="font-weight=bold; font-style=italic">Vanilla Javascript exercises and examples that break down frequently used functions and methods</p>
 <ul>
     <li>Array Methods</li>
     <li>String Methods</li>
